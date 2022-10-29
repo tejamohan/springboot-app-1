@@ -1,0 +1,15 @@
+com\zuul\service\ZuulService1Application.class
+com\zuul\service\security\JwtRequestFilter.class
+com\zuul\service\domain\RBIDomain.class
+com\zuul\service\util\ApiRequest.class
+com\zuul\service\domain\BankDomain.class
+com\zuul\service\repository\RBIRepository.class
+com\zuul\service\util\JwtUtil.class
+com\zuul\service\repository\BankDomainRepository.class
+com\zuul\service\service\RbiBankServiceImpl.class
+com\zuul\service\controller\RbiDomain.class
+com\zuul\service\service\RBIBankService.class
+com\zuul\service\security\MyUserDetailsService.class
+com\zuul\service\security\SecurityConfig.class
+com\zuul\service\swagger\SpringFoxConfig.class
+com\zuul\service\util\ApiResponse.class
